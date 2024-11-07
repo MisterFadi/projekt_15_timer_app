@@ -9,6 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  timer_count_down: ^2.2.2
+  timer_snackbar: ^0.0.3
 
 dev_dependencies:
   flutter_test:
